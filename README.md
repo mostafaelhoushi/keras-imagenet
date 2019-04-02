@@ -15,7 +15,7 @@ mkdir -p ~/tensorflow_datasets/downloads/manual/imagenet2012
 
 4. Download `ILSVRC2012_img_train.tar` from [Training images (Task 1 & 2)](http://www.image-net.org/challenges/LSVRC/2012/nnoupb/ILSVRC2012_img_train.tar) to `~/tensorflow_datasets/downloads/manual/imagenet2012`
 
-5. Download `ILSVRC2012_img_val.tar` from [Validation images (all tasks)](http://www.image-net.org/challenges/LSVRC/2012/nnoupb/ILSVRC2012_img_val.tar)
+5. Download `ILSVRC2012_img_val.tar` from [Validation images (all tasks)](http://www.image-net.org/challenges/LSVRC/2012/nnoupb/ILSVRC2012_img_val.tar) to `~/tensorflow_datasets/downloads/manual/imagenet2012`
 
 # Getting Started
 1. Clone the repo:
